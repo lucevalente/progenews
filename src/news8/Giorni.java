@@ -36,6 +36,9 @@ public class Giorni {
 
 		LocalDateTime complete23 = complete21.plusDays(360); // aggiunge 1 anno
 		System.out.println("Complete21 plusday " + complete23);
+		
+		System.out.println("prova");
+
 
 	}
 
